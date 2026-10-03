@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "50d491f2047ff83c426c908d",
+  "owner": "tpgkwnxj3",
+  "repo": "page-e96e2ae77da5f9a74a5accb1",
+  "title": "溪鱼云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e96e2ae77da5f9a74a5accb1",
+      "a": "溪鱼云",
+      "b": "",
+      "entity": "溪鱼云",
+      "brand": "溪鱼云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "00f44866342e1b9a4687a96e8f88bfe2228bab6fad8d59978d0723364d1dedfc",
+      "content": {
+        "keyword1": "溪鱼云",
+        "keyword2": "",
+        "primary_entity": "溪鱼云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "溪鱼云是面向跨境办公与流媒体的官方机场与VPN加速服务，提供稳定节点、多端客户端下载及年付套餐，支持基础版、旗舰版与团队版订阅。",
+          "AI_DESCRIPTION": "溪鱼云是面向跨境办公与流媒体的官方机场与VPN加速服务，提供稳定节点、多端客户端下载及年付套餐，支持基础版、旗舰版与团队版订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{background:#F6F1E7;color:#15241A;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:17px;line-height:1.7}a{color:#1F5C3D;text-decoration:underline}a:hover{color:#0F3A26}header{background:#1F5C3D;color:#F6F1E7;padding:14px 16px}header .brand{font-weight:700;font-size:20px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px}nav a{color:#F6F1E7;text-decoration:none;font-size:15px}main{max-width:960px;margin:0 auto;padding:20px 16px 40px}h1{font-size:28px;line-height:1.3;margin:8px 0 12px;color:#143325}h2{font-size:22px;margin:28px 0 12px;color:#1F5C3D;border-bottom:2px solid #C9D9CE;padding-bottom:6px}h3{font-size:18px;margin:16px 0 8px;color:#1A3F2C}p,li{word-wrap:break-word}ul,ol{padding-left:1.2em}.lead{font-size:18px}.cards{display:flex;flex-wrap:wrap;gap:12px}.card{flex:1 1 260px;background:#FFFcf7;border:1px solid #C5D4C8;border-radius:10px;padding:16px}.card.featured{border:2px solid #1F5C3D;background:#E7F0EA}.price{font-size:22px;font-weight:700;color:#1F5C3D}.annual{color:#3D5346;font-size:15px;margin:4px 0 10px}.card ul{margin:0;padding-left:1.1em}.note{background:#E7F0EA;border-left:4px solid #1F5C3D;padding:10px 12px;border-radius:4px}details{background:#FFFcf7;border:1px solid #C5D4C8;border-radius:8px;padding:10px 12px;margin:10px 0}summary{cursor:pointer;font-weight:700;color:#143325}details p{margin:8px 0 0}.grid2{display:flex;flex-wrap:wrap;gap:12px}.grid2>div{flex:1 1 280px;background:#FFFcf7;border:1px solid #C5D4C8;border-radius:10px;padding:14px}footer{background:#143325;color:#E8F0EA;padding:20px 16px;font-size:14px}footer a{color:#D5E8DA}.links{display:flex;flex-wrap:wrap;gap:8px 16px}.muted{color:#3D5346}.cta{display:inline-block;background:#1F5C3D;color:#F6F1E7;text-decoration:none;padding:8px 14px;border-radius:6px;margin:6px 6px 0 0}.list-plain{list-style:none;padding:0;margin:0}.list-plain li{margin:6px 0}</style><header><div class=\"brand\">溪鱼云官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#nodes\">节点线路</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作</a><a href=\"#friends\">友链</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section id=\"intro\"><h1>溪鱼云</h1><p class=\"lead\">溪鱼云是面向跨境办公、流媒体与游戏加速的官方机场订阅与 VPN 加速服务。本页为溪鱼云官方网站入口，提供套餐说明、客户端下载指引与机场订阅使用方法，帮助你稳定连接、按需选线。</p><p>溪鱼云 VPN 与溪鱼云机场采用同一套订阅体系：一次开通即可在多端客户端导入，按流量与设备数选用基础版、旗舰版或团队版。线路覆盖常用地区，旗舰与团队套餐含 IPLC 专线优化，适合对延迟与解锁更敏感的场景。</p><p class=\"note\">请通过溪鱼云官网获取订阅，谨防仿冒站点。官方下载与配置说明见本页「客户端下载」与「操作说明」。本页不展示虚构评分或用户评论。</p><p><a class=\"cta\" href=\"#plans\">查看套餐</a><a class=\"cta\" href=\"#download\">前往客户端下载</a></p></section><section id=\"plans\"><h2>溪鱼云套餐与机场订阅</h2><p>价格按自然月计费，年付可锁定全年用量。流量为当月极速额度，到期按套餐规则重置。设备数指同时在线终端，超出后需下线闲置设备再连接。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"muted\">订阅开通后，在用户中心复制通用订阅链接，即可导入 Clash、Surge、Shadowrocket、Stash 等客户端。年付与月付可在有效期内按规则续费，不叠加虚构折扣宣传。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid2\"><div><h3>跨境办公与协作</h3><p>远程访问代码仓库、设计稿与会议系统时，选择延迟更低的香港、新加坡或日本节点。旗舰版 IPLC 线路适合对抖动敏感的视频会议；团队版可为部门统一下发订阅并限制出口策略。</p></div><div><h3>流媒体与内容研究</h3><p>基础版覆盖常见站点的基础解锁；旗舰版强调全节点原生流媒体。观看或资料检索时建议固定同一区域节点，减少验证与地区跳变。学术文献与公开资料访问同样适用。</p></div><div><h3>游戏与实时对战</h3><p>游戏加速优先使用标注 IPLC 或游戏优化的节点，避免高峰期拥塞的普通线路。旗舰版对延迟与丢包更友好；若多台主机同时在线，请核对套餐设备上限。</p></div><div><h3>多设备与家庭共享</h3><p>手机、电脑与电视盒子可共用同一机场订阅。基础版适合个人轻量使用，家庭多终端建议旗舰版，工作室或小团队选择团队版以获得更高带宽与定制路由。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><h3>开通与获取订阅</h3><ol><li>在套餐区确认流量、设备数与线路需求，选择月付或年付。</li><li>完成开通后进入用户中心，复制机场订阅链接（通用 Clash / SIP008 等格式以面板显示为准）。</li><li>不要在社交群随意转发订阅链接，以免流量被盗用或触发风控。</li></ol><h3>导入客户端并连接</h3><ol><li>按系统下载对应客户端，见下方官方下载说明。</li><li>使用「从 URL 更新」或「订阅管理」粘贴链接，首次更新节点列表。</li><li>开启系统代理或 TUN 模式（以客户端能力为准），选择延迟较低的节点后连接。</li><li>浏览器访问需要加速的站点验证；流媒体请选用标注解锁的节点。</li></ol><h3>日常维护</h3><p>节点更新失败时先检查订阅是否过期、本地时间是否准确。延迟突然升高可切换同区域备用节点。流量将尽时减少大文件同步，或升级至更高档套餐。团队版可将分流规则按域名与进程下发，减少误走代理。</p></section><section id=\"download\"><h2>客户端下载与多端配置</h2><p>溪鱼云不绑定单一闭源壳程序，推荐使用主流开源或常用加速器客户端导入官方订阅。以下为各平台常见选择与注意点，下载请使用客户端项目自己的发布页，再回到本站用户中心粘贴订阅。</p><ul><li>Windows：Clash Meta 内核图形客户端或系统代理工具，建议开启规则分流，避免全局占用本地服务。</li><li>macOS：Clash / Surge / Stash 等，按系统版本选择，导入后开启增强模式或 TUN。</li><li>Android：Clash Meta for Android 或兼容订阅的加速器，授予 VPN 权限后更新配置。</li><li>iOS：Shadowrocket、Stash、Quantumult X 等，通过订阅 URL 更新；需自行准备安装渠道。</li><li>Linux 与路由器：使用 Clash / sing-box 等核心，适合网关透明代理；团队版可配合定制路由。</li></ul><p>导入成功后应看到溪鱼云机场节点分组。若列表为空，核对链接完整性与套餐状态。本站提供官网指引，不内嵌第三方安装包，以降低篡改风险。</p></section><section id=\"nodes\"><h2>节点、线路与加速表现</h2><p>溪鱼云节点池按套餐开放。基础版使用普通线路节点池，覆盖香港、日本、新加坡、美国、台湾等常用出口，满足网页、轻量协作与基础流媒体。旗舰版在此基础上开放原生解锁节点与 IPLC 专线游戏优化，晚高峰仍建议避开超热门倍率线路。团队版提供 VIP 高带宽入口，可为企业固定出口与分流策略。</p><p>实际速度受本地宽带、跨境拥堵与目标站策略影响。办公场景可优先测香港与新加坡；面向北美内容可选用西海岸或中转优化线路。连接后请以客户端延迟与实际打开速度为准，不必依赖任何未经验证的测速截图。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按使用顺序整理，展开即可阅读完整说明。若仍无法连接，请通过套餐对应的工单渠道反馈节点名称、客户端版本与错误提示。</p><details><summary>溪鱼云是什么？和溪鱼云 VPN、溪鱼云机场怎么理解？</summary><p>溪鱼云是同一品牌下的网络加速服务：以机场订阅为核心，在多端 VPN / 代理客户端中使用。对外可称为溪鱼云官网提供的梯子与加速器能力，不必重复叠加名称。选择套餐后导入订阅即可，无需安装来路不明的「一键连」程序。</p></details><details><summary>如何完成客户端下载并第一次连上？</summary><p>先确认系统对应的常用客户端，完成安装后打开订阅管理，粘贴用户中心的链接并更新。选择一个延迟较低的节点，开启系统代理。若浏览器仍直连，检查是否漏开增强模式，或规则是否把目标站放行到 DIRECT。</p></details><details><summary>三个套餐怎么选？年付和月付有何不同？</summary><p>个人轻度浏览选基础版；需要原生流媒体、游戏 IPLC 与更多设备选旗舰版；多人共用、需要高带宽和定制路由选团队版。年付按页面标价一次性覆盖十二个月用量，适合长期使用；月付便于短期验证线路是否符合你的网络环境。</p></details><details><summary>能否解锁流媒体？会不会影响账号安全？</summary><p>基础版支持基础流媒体；旗舰版强调全节点原生解锁。仍可能因版权方策略变化出现偶发失败，可更换同区域节点。请勿在代理环境下进行敏感支付以外的异常频繁换区，也不要分享账号与订阅给不相关的人。</p></details><details><summary>提示设备超限或流量用尽怎么办？</summary><p>同时在线超过套餐台数时，在已登录设备上断开连接或从客户端退出代理。流量用尽后极速通道不可用，可等待重置日或升级套餐。建议在客户端查看流量统计，大文件同步尽量走直连或错峰。</p></details><details><summary>游戏加速必须买旗舰版吗？普通线路能玩吗？</summary><p>休闲对局可先用基础版普通节点测试延迟。对延迟和丢包敏感的对战、以及需要更稳定跨境链路的用户，旗舰版 IPLC 游戏优化更合适。团队版适合战队或工作室多设备同时在线。任何线路都不能保证对所有游戏运营商的绝对低延迟。</p></details><details><summary>如何确认自己访问的是溪鱼云官网？</summary><p>认准浏览器地址栏中的官方域名，收藏本页作为入口。不要通过来路不明的短链登录。本站只提供订阅与客户端配置说明，不会索取验证码以外的多余权限，也不会以客服名义要求远程控制你的电脑。</p></details></section><section id=\"ads\"><h2>合作与展示位</h2><p>溪鱼云官网可提供文字合作展示，用于工具类、设计类或企业服务互换推荐。因页面为静态信息结构，合作内容以文本与页内锚点呈现，不加载外部素材。</p><p class=\"links\"><a href=\"#\">跨境协作工具合作</a><a href=\"#\">企业网络咨询合作</a><a href=\"#plans\">返回套餐说明</a></p></section><section id=\"friends\"><h2>友情链接</h2><p>友链用于相关信息站点互达，链接均为页内锚点以保持静态可访问。交换前请确保对方站点内容合法、与网络工具或信息服务相关。</p><p class=\"links\"><a href=\"#intro\">溪鱼云简介</a><a href=\"#download\">官方下载指引</a><a href=\"#faq\">问题中心</a><a href=\"#sitemap\">站点地图</a><a href=\"#\">合作站点 A</a><a href=\"#\">合作站点 B</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"list-plain\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#nodes\">节点与线路</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#friends\">友情链接</a></li></ul><p class=\"muted\">完整抓取列表亦对应站点 sitemap 协议中的页面入口，搜索引擎请以 canonical 指定的官网地址为准。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>溪鱼云官方网站 · 机场订阅与 VPN 加速器客户端下载说明</p><p>内容用于介绍套餐、使用方法与常见问题，不构成对任何第三方应用商店或未列出客户端的担保。</p><p><a href=\"#intro\">返回顶部</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#sitemap\">网站地图</a></p></footer>",
+          "hash": "40ceae92c0e51002423f92ace7a803138ba1352fdc5418ede3de8784d8b050b1",
+          "seo": {
+            "title": "溪鱼云官网 - 机场订阅与VPN加速器客户端官方下载",
+            "keywords": "溪鱼云,溪鱼云官网,溪鱼云VPN,溪鱼云机场,梯子,网络加速,加速器,客户端下载,机场订阅,IPLC",
+            "description": "溪鱼云是面向跨境办公与流媒体的官方机场与VPN加速服务，提供稳定节点、多端客户端下载及年付套餐，支持基础版、旗舰版与团队版订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "glopbrz.cn",
+    "host": "p-5a1927b884.glopbrz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "glopbrz.cn",
+      "url": "https://glopbrz.cn/",
+      "label": "阶梯云",
+      "apex": "glopbrz.cn",
+      "kind": null,
+      "identity": "dhbwbpdpjq/page-26eac6f91d80e31ce935759a"
+    },
+    {
+      "host": "mzdxn.cn",
+      "url": "https://mzdxn.cn/",
+      "label": "溪鱼云",
+      "apex": "mzdxn.cn",
+      "kind": null,
+      "identity": "mumdvvmp/page-475e3d8021a260205517e647"
+    },
+    {
+      "host": "qinhanjia9.cn",
+      "url": "https://qinhanjia9.cn/",
+      "label": "溪鱼云",
+      "apex": "qinhanjia9.cn",
+      "kind": null,
+      "identity": "qvrvvhyp/page-05090f6201469fe215b5b103"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d253cd9ee68b396852adcf88ce3808c8556a9ad58e63a85457f38966b08de7e3",
+    "sitemap.xml": "3b0d9f57c68a50eafffe0b3fd05a45319a3c85f1401e6fff6ae05a86b0c438bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f62349e9bf80135c903a276258e68bf58947f98e7523d40737968eae189a5b49",
+    "robots.txt": "08bf71f95a348912ac81305b404064315a77c801460f679bdb19ef3ebf4ee79c",
+    "a031dc64df6de9318bb385b098dd867c.txt": "51c53b82546d73403d62df49c89e3fd607540ebe825221acb3ef2cadd5c62469"
+  },
+  "revision": "1a62277ad1b711014bdc271cda4710b63c1fd6dc3134c6b40c9edc49ce42cbed"
+}
